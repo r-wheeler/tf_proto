@@ -1,3 +1,2 @@
-extern crate protobuf;
 pub mod protos;
-pub use protos::*;
+pub use protos::tensorflow::*;
